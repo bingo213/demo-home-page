@@ -216,7 +216,7 @@ body {
 }
 
 .slider figure {
-  /* width: 500%; */
+  width: 500%;
   margin: 0;
   left: 0;
   position: relative;
@@ -260,7 +260,7 @@ body {
 }
 
 @keyframes slider {
-  /* 0% {
+  0% {
     left: 0;
   }
   15% {
@@ -286,10 +286,7 @@ body {
   }
   100% {
     left: -400%;
-  } */
-  0%,100%{opacity: 0;}
-  30%{opacity: 1;}
-  60%{opacity: 1;}
+  }
 }
 
 .slider .btn {
