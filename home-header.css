@@ -200,7 +200,7 @@ body {
 .slider {
   overflow: hidden;
   background-color: rgba(17, 9, 8, 0.747);
-   background: rgb(2, 0, 36);
+  background: rgb(2, 0, 36);
   background: linear-gradient(
     357deg,
     rgba(2, 0, 36, 1) 0%,
